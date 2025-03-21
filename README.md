@@ -1,6 +1,8 @@
 ######### Feedback-Rating-System-Independent-Module-with-Admin-Panel
 _______________ThE PROJECT IS DEVELEOP USING SPRINGBOOT , REACT.JS AND MYSQL DATABASE ____________________________________________________________________________________________________________
 Develop a Feedback &amp; Rating System as an independent module using Appzillon and Java, allowing users to submit feedback and rate services/products. The module should include an Admin Panel to manage feedback and analyze ratings. This module will be integrated with a sample application for demonstration purposes. 
+![Image](https://github.com/user-attachments/assets/fa25de00-0985-4aef-9185-823e42575446)
+
 --------------
 *********User Features:
 --------------------
@@ -12,6 +14,8 @@ Anonymity Option – Users can choose to submit feedback anonymously.
 -------------
 ********Admin Features:
 --------------
+![Image](https://github.com/user-attachments/assets/8bcd280a-830d-414b-9b80-d1e3ff101a7a)
+![Image](https://github.com/user-attachments/assets/84fe8b5b-edf7-4ce1-b730-1cbd955cfb13)
 View All Feedback & Ratings – Admin can see feedback submitted by users.
 Moderate Feedback – Admin can delete or flag inappropriate feedback.
 Filter & Search – Admin can filter feedback by rating, date, or user.
