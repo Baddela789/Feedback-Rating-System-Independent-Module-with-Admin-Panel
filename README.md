@@ -24,3 +24,4 @@ The feedback module will be integrated into a sample e-commerce/service-based ap
 Users can leave feedback after interacting with a product or service.
 The admin panel will be a separate section where admins can manage feedback and ratings.
  
+![Image](https://github.com/user-attachments/assets/d2d332bc-7a85-4f56-98af-f08e465a89d5)
